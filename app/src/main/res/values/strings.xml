@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EasyServiceApp</string>
+    <string name="login_name">   Ingresar</string>
+    <string name="txtuser">Nombre de Usuario</string>
+    <string name="txtpassword"> Contraseña: ******** </string>
+    <string name="registrese"><b>Registrese</b></string>
+    <string name="ingreso_cliente">Ingresar como Cliente</string>
+    <string name="registrarse">Registrarse como Profesional</string>
+    <string name="subtitulo">Registro como Profesional</string>
+    <string name="porfavor_co">Porfavor, complete los campos inferiores</string>
+</resources>
